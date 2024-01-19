@@ -16,6 +16,11 @@ const Resume = () => {
   const theme = useTheme();
   const [mount, setMount] = useState(false);
 
+  const handleClick = () => {
+    const url = "https://zuhayr77.notion.site/zuhayr77/Zuhayr-Hasan-64ee0fad18ee4240b2b9c89bc1ac6862";
+    window.open(url, "_blank");
+  }
+
   useEffect(() => {
     setMount(true);
     if (!showResume) {
@@ -122,6 +127,7 @@ const Resume = () => {
                     </div>
                   )}
                 </div>
+                <Button type="primary" onClick={handleClick}>Download CV</Button>
               </div>
             </div>
           </div>

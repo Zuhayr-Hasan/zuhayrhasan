@@ -8,6 +8,7 @@ const ServiceCard = ({ name, description }) => {
   useEffect(() => {
     setMounted(true);
   }, []);
+  
   return (
     <div
       className={`w-full p-2 mob:p-4 rounded-lg transition-all ease-out duration-300 ${
