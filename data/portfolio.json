@@ -10,14 +10,14 @@
         {
             "description": "React, Firebase, Styled-Components",
             "id": "1",
-            "imageSrc": "https://cdn.dribbble.com/users/846021/screenshots/5591815/media/36b59ce4e3c59608d33c276dcdde50c3.jpg?resize=1200x900&vertical=center",
+            "imageSrc": "https://cdn.dribbble.com/userupload/10862757/file/original-e38f347a1dc11e5473c13e1afc99a287.jpg?resize=1504x1128&vertical=center",
             "title": "Picxer (Unsplash Clone)",
             "url": "https://image-gallery-394400.firebaseapp.com/"
         },
         {
             "description": "HTML5, CSS3, JavaScript, BootStrap 5",
             "id": "2",
-            "imageSrc": "https://cdn.dribbble.com/userupload/4084519/file/original-2f7d2700874c51f1984145a246abf213.png?resize=1504x1128",
+            "imageSrc": "/images/crud-app.png",
             "title": "Landing Page - Eazy Camper",
             "url": "https://portfolio-invozone-easycamper.netlify.app/"
         },
@@ -38,20 +38,20 @@
         {
             "description": "React, SCSS, JavaScript",
             "id": "5",
-            "imageSrc": "https://cdn.dribbble.com/users/270596/screenshots/11478407/media/4b5bc0a7e9e1e95f71e1025cb82a1065.jpg?resize=1200x900&vertical=center",
+            "imageSrc": "https://cdn.dribbble.com/userupload/2619904/file/original-811ba5acc7932d0a2513f1e0605aef09.png?resize=1504x1128",
             "title": "Landing Page - ProEdu",
             "url": "https://portfolio-invozone-proedu.netlify.app/"
         },
         {
             "description": "HTML5, CSS3, BootStrap 5",
             "id": "6",
-            "imageSrc": "https://cdn.dribbble.com/users/125948/screenshots/2730778/media/7e4c8ec838f0e2dcd2ee7a2840631d77.png?resize=800x600&vertical=center",
+            "imageSrc": "https://cdn.dribbble.com/userupload/4383278/file/original-cfb35958767bbfb15a567cce18851bb8.jpg?resize=1504x1128",
             "title": "Landing Page - Offshore",
             "url": "https://portfolio-invozone-offshore.netlify.app/"
         }
     ],
     "resume": {
-        "description": "I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.",
+        "description": "I am a self-taught software engineer with a strong passion for embracing new technologies and mastering best practices.",
         "education": {
             "universityDate": "2017-2021",
             "universityName": "University of Management and Technology (UMT)",
@@ -59,18 +59,18 @@
         },
         "experiences": [
             {
-                "bullets": "Bug fixing in the UI: Addressed Tailwind issues in the user interface.",
-                "dates": "Sep 2023 - Present",
+                "bullets": "Bug fixing in the UI: Addressed Tailwind issues in the user interface., Contribute to the CRM software IDURAR. Manage inventory invoicing accountint and HR",
+                "dates": "Jan 2023 - Present",
                 "id": "1",
-                "position": "Contributer in React Email (Open Source Project)",
-                "type": "Part Time"
+                "position": "Frontend Software Engineer - GitHub Contributer",
+                "type": "Full Time"
             },
             {
                 "bullets": "Optimized PKI PDF platform: 20% faster document signing, Secured APIs: Compliance, efficient data communication, TypeScript implementation: 15% code issue reduction, Innovative collaboration: Agile sprints, cutting-edge tech adoption.",
-                "dates": "July 2022 - Present",
+                "dates": "Sep 2023 - Dec 2023",
                 "id": "d495c23b-4f65-479a-9b8a-cfbc1c089725",
-                "position": "Frontend Engineer at Invozone",
-                "type": "Full Time"
+                "position": "Frontend Engineer at Codegic",
+                "type": "Part Time"
             }
         ],
         "frameworks": [
